@@ -1,4 +1,6 @@
+# Quick and dirty URL allow/block list entry list counter for multi vsys
 # Feed in a config and get a count of allow-list and block-list entries in each URL filtering profile in each vsys
+
 
 from lxml import etree
 import pdb
